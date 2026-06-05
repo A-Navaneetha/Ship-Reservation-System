@@ -65,29 +65,6 @@ Ship-Reservation-System/
 
     └── ...
 
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/A-Navaneetha/Ship-Reservation-System.git
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-### Backend Setup
-
-```bash
-cd backend
-mvn spring-boot:run
-```
-
 ## 🎯 Learning Outcomes
 
 * Full-Stack Web Development
@@ -104,13 +81,3 @@ mvn spring-boot:run
 * Seat Selection System
 * Admin Dashboard
 * Real-Time Availability Updates
-
-## 👨‍💻 Author
-
-**A. Navaneetha**
-
-GitHub: https://github.com/A-Navaneetha
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
