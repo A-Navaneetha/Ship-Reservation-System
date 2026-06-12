@@ -2,12 +2,6 @@
 
 A modern and responsive frontend application for the **Ship Reservation System** built using **React.js**. This application provides an intuitive interface for users to search ships, book tickets, manage reservations, and view booking details seamlessly.
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home Page](public/SRS%20Home%20page.jpeg)
-
 ## 🌟 Features
 
 * 🔐 User Authentication (Login & Registration)
