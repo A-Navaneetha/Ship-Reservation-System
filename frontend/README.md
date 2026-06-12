@@ -21,7 +21,6 @@ A modern and responsive frontend application for the **Ship Reservation System**
 * CSS3
 * React Router
 * Axios
-* Bootstrap / Custom CSS
 
 ## 📂 Project Structure
 
