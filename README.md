@@ -6,6 +6,9 @@ A full-stack web application designed to simplify ship ticket booking and reserv
 
 The Ship Reservation System streamlines the process of booking ship tickets by providing an efficient platform for users to search routes, check availability, and manage reservations. The project demonstrates full-stack development using React.js, Spring Boot, and MySQL.
 
+### Home Page
+![Home Page](frontend/SRS Home page.jpeg)
+
 ## ✨ Features
 
 * User Registration and Login
