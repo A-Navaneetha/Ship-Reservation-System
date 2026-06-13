@@ -1,13 +1,15 @@
-# 🚢 Ship Reservation System Frontend
+# Ship Reservation System(SRS)
+
+# 🚢 CaptainBook Frontend
 
 A modern and responsive frontend application for the **Ship Reservation System** built using **React.js**. This application provides an intuitive interface for users to search ships, book tickets, manage reservations, and view booking details seamlessly.
 
 ## Admin Page
 * In Home Page,if we click as Admin.Then Admin Login and Admin Register appears
-  ![Admin Page](frontend/public/srs-admin-page1.jpeg)
+  ![Admin Page](frontend/public/srs-admin-page1.png)
 
 * If already have an account, We can Login by clicking Admin Login. If Don't have an account, We can register as Admin Register and then login.
-  ![Admin Login Page](frontend/public/srs-admin-login-page.jpeg) 
+  ![Admin Login Page](frontend/public/srs-admin-login-page.png) 
 
 * In Admin Page, We can 
 ![Admin Dashboard](frontend/public/srs-admin-page.jpeg)
