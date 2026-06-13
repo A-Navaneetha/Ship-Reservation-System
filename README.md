@@ -1,6 +1,6 @@
-# 🚢 Ship Reservation System Project
+# Ship Reservation System Project
 
-# CaptianBook
+# 🚢 CaptianBook
 
 A full-stack web application designed to simplify ship ticket booking and reservation management. Users can browse available ships, view schedules, reserve tickets, and manage bookings through a modern and user-friendly interface.
 
