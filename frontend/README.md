@@ -4,7 +4,7 @@
 
 A modern and responsive frontend application for the **Ship Reservation System** built using **React.js**. This application provides an intuitive interface for users to search ships, book tickets, manage reservations, and view booking details seamlessly.
 
-## Admin Page
+## Admin Page 
 * In Home Page, If we click as Admin. Then Admin Login and Admin Register appears as
   
   ![Admin Page](public/srs-admin-page1.png)
