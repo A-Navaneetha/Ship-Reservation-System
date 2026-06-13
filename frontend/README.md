@@ -40,13 +40,23 @@ A modern and responsive frontend application for the **Ship Reservation System**
 ## 📂 Project Structure
 
 ```text
-src/
-├── components/
-├── pages/
-├── services/
-├── assets/
-├── App.js
-└── index.js
+frontend/
+│
+├── public/
+├── src/
+│   ├── admin/
+│   ├── api/
+│   ├── components/
+│   ├── pages/
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── index.css
+│   └── index.js
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
 ```
 
 ## 🔗 Backend Repository
