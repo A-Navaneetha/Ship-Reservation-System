@@ -12,6 +12,7 @@ The Ship Reservation System streamlines the process of booking ship tickets by p
 ## Login Page
 * After clicking Get Started in the Home Page, Login Page appears.
 * Here, We can login as Admin/Customer
+  
 ![Login Page](frontend/public/srs-login.png)
 
 ## ✨ Features
