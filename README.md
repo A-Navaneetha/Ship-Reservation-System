@@ -1,4 +1,4 @@
-# Ship Reservation System Project
+# Ship Reservation System(SRS) Project
 
 # 🚢 CaptianBook
 
@@ -56,23 +56,14 @@ The Ship Reservation System streamlines the process of booking ship tickets by p
 ## 📂 Project Structure
 
 Ship-Reservation-System/
-
 ├── frontend/
-
 │   ├── src/
-
 │   ├── public/
-
 │   └── package.json
-
 │
-
 └── backend/
-
     ├── src/
-
     ├── pom.xml
-
     └── ...
 
 ## 🎯 Learning Outcomes
