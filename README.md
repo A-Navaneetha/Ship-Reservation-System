@@ -55,7 +55,50 @@ The Ship Reservation System streamlines the process of booking ship tickets by p
 
 ## 📂 Project Structure
 
-
+```text
+Ship-Reservation-System
+│
+├── frontend
+│   │
+│   ├── public
+│   ├── src
+│   │   ├── admin
+│   │   ├── api
+│   │   ├── components
+│   │   ├── pages
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   ├── index.js
+│   │   ├── index.css
+│   │   └── App.test.js
+│   ├── package.json
+│   ├── package-lock.json
+│   └── .gitignore
+│
+├── backend
+│   │
+│   ├── src
+│   │   ├── main
+│   │   │   ├── java
+│   │   │   │   ├── controller
+│   │   │   │   ├── service
+│   │   │   │   ├── repository
+│   │   │   │   ├── model
+│   │   │   │   ├── entity
+│   │   │   │   ├── dao
+│   │   │   │   └── ShipReservationApplication.java
+│   │   │   │
+│   │   │   └── resources
+│   │   │       ├── application.properties
+│   │   │       └── static
+│   │   └── test
+│   │
+│   ├── pom.xml
+│   ├── mvnw
+│   ├── mvnw.cmd
+│   └── .gitignore
+└── README.md
+```text
 
 ## 🎯 Learning Outcomes
 
