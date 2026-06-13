@@ -98,7 +98,7 @@ Ship-Reservation-System
 │   ├── mvnw.cmd
 │   └── .gitignore
 └── README.md
-```text
+```
 
 ## 🎯 Learning Outcomes
 
